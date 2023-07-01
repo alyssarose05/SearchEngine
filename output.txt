@@ -1,0 +1,2649 @@
+SNIPPET: 15
+STEMMING: false
+GUI GENERATED: true
+
+Query #1: "who founded google"
+
+doc100.html
+TEXT SNIPPET: how we started and where we are today   google 
+ 
+ 
+ 
+founded 
+
+WORD: founded
+Appears 1 time(s)
+First found at position 15
+
+WORD: google
+Appears 2 time(s)
+First found at position 11
+
+---------------------------------------------
+
+doc113.html
+TEXT SNIPPET:  html id  phx wrapper  lang  en   head  title 
+
+WORD: founded
+Appears 92 time(s)
+First found at position 17
+
+WORD: google
+Appears 1 time(s)
+First found at position 31198
+
+---------------------------------------------
+
+doc116.html
+TEXT SNIPPET: microsoft   new world encyclopedia 
+document documentelement classname   document documentelement classname replace 
+
+WORD: founded
+Appears 2 time(s)
+First found at position 3999
+
+WORD: google
+Appears 11 time(s)
+First found at position 5700
+
+---------------------------------------------
+
+doc128.html
+TEXT SNIPPET:  html lang  en us  class  no js   head  
+
+WORD: founded
+Appears 3 time(s)
+First found at position 15590
+
+WORD: google
+Appears 1 time(s)
+First found at position 600
+
+---------------------------------------------
+
+doc135.html
+TEXT SNIPPET:  html  head  script src  https   cdn cookielaw org consent 
+
+WORD: founded
+Appears 1 time(s)
+First found at position 12778
+
+WORD: google
+Appears 67 time(s)
+First found at position 533
+
+---------------------------------------------
+
+doc165.html
+TEXT SNIPPET: thirteen colonies   wikipedia 
+ rlq window rlq      push 
+
+WORD: founded
+Appears 4 time(s)
+First found at position 6563
+
+WORD: google
+Appears 42 time(s)
+First found at position 21905
+
+---------------------------------------------
+
+doc177.html
+TEXT SNIPPET:  link rel  shortcut icon  href  https   lemp io wp 
+
+WORD: founded
+Appears 2 time(s)
+First found at position 2501
+
+WORD: google
+Appears 5 time(s)
+First found at position 4122
+
+---------------------------------------------
+
+doc18.html
+TEXT SNIPPET:  html lang  en us   head  meta charset  utf 8 
+
+WORD: founded
+Appears 24 time(s)
+First found at position 177
+
+WORD: google
+Appears 47 time(s)
+First found at position 172
+
+---------------------------------------------
+
+doc187.html
+TEXT SNIPPET:  html lang  en us  class  no js   head  
+
+WORD: founded
+Appears 2 time(s)
+First found at position 416
+
+WORD: google
+Appears 31 time(s)
+First found at position 417
+
+---------------------------------------------
+
+doc194.html
+TEXT SNIPPET: who is google co founder sergey brin 
+0   p  1   
+
+WORD: founded
+Appears 2 time(s)
+First found at position 49115
+
+WORD: google
+Appears 4 time(s)
+First found at position 3
+
+---------------------------------------------
+
+doc196.html
+TEXT SNIPPET:  script type  text javascript  src   ajax article news app web 
+
+WORD: founded
+Appears 2 time(s)
+First found at position 12747
+
+WORD: google
+Appears 4 time(s)
+First found at position 12656
+
+---------------------------------------------
+
+doc21.html
+TEXT SNIPPET: 0  var r n n length 1  if u  u r starttime 
+
+WORD: founded
+Appears 1 time(s)
+First found at position 3308
+
+WORD: google
+Appears 1 time(s)
+First found at position 3306
+
+---------------------------------------------
+
+doc25.html
+TEXT SNIPPET:  html id  phx wrapper  lang  en us   head  
+
+WORD: founded
+Appears 311 time(s)
+First found at position 91
+
+WORD: google
+Appears 4 time(s)
+First found at position 62
+
+---------------------------------------------
+
+doc4.html
+TEXT SNIPPET:  link rel  preload  as  script  href  https   
+
+WORD: founded
+Appears 3 time(s)
+First found at position 5822
+
+WORD: google
+Appears 138 time(s)
+First found at position 37
+
+---------------------------------------------
+
+doc43.html
+TEXT SNIPPET: companies founded by jews in america  google 
+ 
+ 
+ 
+ 
+ 
+ 
+companies 
+
+WORD: founded
+Appears 5 time(s)
+First found at position 2
+
+WORD: google
+Appears 9 time(s)
+First found at position 8
+
+---------------------------------------------
+
+doc62.html
+TEXT SNIPPET:  html lang  en us   head  meta charset  utf 8 
+
+WORD: founded
+Appears 2 time(s)
+First found at position 176
+
+WORD: google
+Appears 29 time(s)
+First found at position 113
+
+---------------------------------------------
+
+doc64.html
+TEXT SNIPPET: google   wikipedia 
+ rlq window rlq      push function 
+
+WORD: founded
+Appears 1 time(s)
+First found at position 729
+
+WORD: google
+Appears 18 time(s)
+First found at position 1
+
+---------------------------------------------
+
+doc69.html
+TEXT SNIPPET: history of google   wikipedia 
+ rlq window rlq      
+
+WORD: founded
+Appears 1 time(s)
+First found at position 958
+
+WORD: google
+Appears 556 time(s)
+First found at position 3
+
+---------------------------------------------
+
+doc71.html
+TEXT SNIPPET: history of microsoft   wikipedia 
+ rlq window rlq      
+
+WORD: founded
+Appears 2 time(s)
+First found at position 2301
+
+WORD: google
+Appears 28 time(s)
+First found at position 10445
+
+---------------------------------------------
+
+doc91.html
+TEXT SNIPPET: how google was founded   fox business 
+ meta data n head  ssr 
+
+WORD: founded
+Appears 17 time(s)
+First found at position 4
+
+WORD: google
+Appears 53 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc93.html
+TEXT SNIPPET:  link rel  preload  href  https   i ytimg com generate 
+
+WORD: founded
+Appears 11 time(s)
+First found at position 586
+
+WORD: google
+Appears 3 time(s)
+First found at position 688
+
+---------------------------------------------
+
+doc94.html
+TEXT SNIPPET:  html lang en us class gnt  njs data u s anon  head 
+
+WORD: founded
+Appears 6 time(s)
+First found at position 5313
+
+WORD: google
+Appears 50 time(s)
+First found at position 55
+
+---------------------------------------------
+
+RECALL: 0.9
+PRECISION: 0.4090909090909091
+========= END OF QUERY 1 ============
+
+Query #2: "who founded microsoft"
+
+doc113.html
+TEXT SNIPPET:  html id  phx wrapper  lang  en   head  title 
+
+WORD: founded
+Appears 92 time(s)
+First found at position 17
+
+WORD: microsoft
+Appears 97 time(s)
+First found at position 16
+
+---------------------------------------------
+
+doc116.html
+TEXT SNIPPET: microsoft   new world encyclopedia 
+document documentelement classname   document documentelement classname replace 
+
+WORD: founded
+Appears 2 time(s)
+First found at position 3999
+
+WORD: microsoft
+Appears 168 time(s)
+First found at position 1
+
+---------------------------------------------
+
+doc117.html
+TEXT SNIPPET: microsoft   wikipedia 
+ rlq window rlq      push function 
+
+WORD: founded
+Appears 3 time(s)
+First found at position 847
+
+WORD: microsoft
+Appears 233 time(s)
+First found at position 1
+
+---------------------------------------------
+
+doc146.html
+TEXT SNIPPET:  html lang  en  dir  ltr  xmlns article  http  
+
+WORD: founded
+Appears 1 time(s)
+First found at position 6254
+
+WORD: microsoft
+Appears 16 time(s)
+First found at position 692
+
+---------------------------------------------
+
+doc177.html
+TEXT SNIPPET:  link rel  shortcut icon  href  https   lemp io wp 
+
+WORD: founded
+Appears 2 time(s)
+First found at position 2501
+
+WORD: microsoft
+Appears 7 time(s)
+First found at position 1901
+
+---------------------------------------------
+
+doc18.html
+TEXT SNIPPET:  html lang  en us   head  meta charset  utf 8 
+
+WORD: founded
+Appears 24 time(s)
+First found at position 177
+
+WORD: microsoft
+Appears 5 time(s)
+First found at position 11047
+
+---------------------------------------------
+
+doc187.html
+TEXT SNIPPET:  html lang  en us  class  no js   head  
+
+WORD: founded
+Appears 2 time(s)
+First found at position 416
+
+WORD: microsoft
+Appears 1 time(s)
+First found at position 10879
+
+---------------------------------------------
+
+doc196.html
+TEXT SNIPPET:  script type  text javascript  src   ajax article news app web 
+
+WORD: founded
+Appears 2 time(s)
+First found at position 12747
+
+WORD: microsoft
+Appears 13 time(s)
+First found at position 12442
+
+---------------------------------------------
+
+doc25.html
+TEXT SNIPPET:  html id  phx wrapper  lang  en us   head  
+
+WORD: founded
+Appears 311 time(s)
+First found at position 91
+
+WORD: microsoft
+Appears 79 time(s)
+First found at position 21
+
+---------------------------------------------
+
+doc4.html
+TEXT SNIPPET:  link rel  preload  as  script  href  https   
+
+WORD: founded
+Appears 3 time(s)
+First found at position 5822
+
+WORD: microsoft
+Appears 4 time(s)
+First found at position 21634
+
+---------------------------------------------
+
+doc43.html
+TEXT SNIPPET: companies founded by jews in america  google 
+ 
+ 
+ 
+ 
+ 
+ 
+companies 
+
+WORD: founded
+Appears 5 time(s)
+First found at position 2
+
+WORD: microsoft
+Appears 2 time(s)
+First found at position 521
+
+---------------------------------------------
+
+doc69.html
+TEXT SNIPPET: history of google   wikipedia 
+ rlq window rlq      
+
+WORD: founded
+Appears 1 time(s)
+First found at position 958
+
+WORD: microsoft
+Appears 12 time(s)
+First found at position 4182
+
+---------------------------------------------
+
+doc70.html
+TEXT SNIPPET: history of microsoft corporation  ndash  fundinguniverse 
+ iframe src  https   
+
+WORD: founded
+Appears 1 time(s)
+First found at position 214
+
+WORD: microsoft
+Appears 150 time(s)
+First found at position 3
+
+---------------------------------------------
+
+doc71.html
+TEXT SNIPPET: history of microsoft   wikipedia 
+ rlq window rlq      
+
+WORD: founded
+Appears 2 time(s)
+First found at position 2301
+
+WORD: microsoft
+Appears 930 time(s)
+First found at position 3
+
+---------------------------------------------
+
+doc93.html
+TEXT SNIPPET:  link rel  preload  href  https   i ytimg com generate 
+
+WORD: founded
+Appears 11 time(s)
+First found at position 586
+
+WORD: microsoft
+Appears 11 time(s)
+First found at position 584
+
+---------------------------------------------
+
+RECALL: 0.5
+PRECISION: 0.3333333333333333
+========= END OF QUERY 2 ============
+
+Query #3: "when was the internet invented"
+
+doc128.html
+TEXT SNIPPET:  html lang  en us  class  no js   head  
+
+WORD: internet
+Appears 250 time(s)
+First found at position 418
+
+WORD: invented
+Appears 78 time(s)
+First found at position 421
+
+---------------------------------------------
+
+doc14.html
+TEXT SNIPPET: a brief history of the internet   internet society 
+ iframe src  https 
+
+WORD: internet
+Appears 216 time(s)
+First found at position 6
+
+WORD: invented
+Appears 1 time(s)
+First found at position 35155
+
+---------------------------------------------
+
+doc15.html
+TEXT SNIPPET: a brief history of the internet â€“ who invented it  how it works  
+
+WORD: internet
+Appears 39 time(s)
+First found at position 6
+
+WORD: invented
+Appears 1 time(s)
+First found at position 9
+
+---------------------------------------------
+
+doc153.html
+TEXT SNIPPET: the history of the internet   how the internet was invented   plusnet 
+
+WORD: internet
+Appears 42 time(s)
+First found at position 5
+
+WORD: invented
+Appears 6 time(s)
+First found at position 12
+
+---------------------------------------------
+
+doc182.html
+TEXT SNIPPET: when was the internet invented    metro news 
+ script gtag  set 
+
+WORD: internet
+Appears 22 time(s)
+First found at position 4
+
+WORD: invented
+Appears 9 time(s)
+First found at position 5
+
+---------------------------------------------
+
+doc187.html
+TEXT SNIPPET:  html lang  en us  class  no js   head  
+
+WORD: internet
+Appears 1 time(s)
+First found at position 11327
+
+WORD: invented
+Appears 8 time(s)
+First found at position 9766
+
+---------------------------------------------
+
+doc188.html
+TEXT SNIPPET: who invented google    howstuffworks 
+ script src    cdn assets 
+
+WORD: internet
+Appears 6 time(s)
+First found at position 1239
+
+WORD: invented
+Appears 3 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc189.html
+TEXT SNIPPET:  html lang  en   head  meta charset  utf 8  
+
+WORD: internet
+Appears 118 time(s)
+First found at position 83
+
+WORD: invented
+Appears 16 time(s)
+First found at position 81
+
+---------------------------------------------
+
+doc190.html
+TEXT SNIPPET: who invented the internet    britannica 
+
+WORD: internet
+Appears 1 time(s)
+First found at position 4
+
+WORD: invented
+Appears 1 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc191.html
+TEXT SNIPPET:  html id  phx wrapper  lang  en   head  title 
+
+WORD: internet
+Appears 121 time(s)
+First found at position 19
+
+WORD: invented
+Appears 162 time(s)
+First found at position 17
+
+---------------------------------------------
+
+doc192.html
+TEXT SNIPPET: who invented the internet 
+ 
+ source srcset   cdn computer hope dark png 
+
+WORD: internet
+Appears 15 time(s)
+First found at position 4
+
+WORD: invented
+Appears 2 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc193.html
+TEXT SNIPPET: who invented the operating system    homework study com 
+ 
+ 
+ 
+ 
+
+WORD: internet
+Appears 4 time(s)
+First found at position 1008
+
+WORD: invented
+Appears 178 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc25.html
+TEXT SNIPPET:  html id  phx wrapper  lang  en us   head  
+
+WORD: internet
+Appears 297 time(s)
+First found at position 1104
+
+WORD: invented
+Appears 1 time(s)
+First found at position 122460
+
+---------------------------------------------
+
+doc74.html
+TEXT SNIPPET: history of the internet   when   how was the internet created  
+
+WORD: internet
+Appears 112 time(s)
+First found at position 4
+
+WORD: invented
+Appears 5 time(s)
+First found at position 1345
+
+---------------------------------------------
+
+doc95.html
+TEXT SNIPPET: how the internet was invented   internet   the guardian 
+in 40 years 
+
+WORD: internet
+Appears 3 time(s)
+First found at position 3
+
+WORD: invented
+Appears 1 time(s)
+First found at position 5
+
+---------------------------------------------
+
+RECALL: 0.9
+PRECISION: 0.6
+========= END OF QUERY 3 ============
+
+Query #4: "how far is earth from the sun"
+
+doc106.html
+TEXT SNIPPET: is earth getting closer to the sun  or farther away    live 
+
+WORD: far
+Appears 6 time(s)
+First found at position 19702
+
+WORD: earth
+Appears 62 time(s)
+First found at position 2
+
+WORD: sun
+Appears 54 time(s)
+First found at position 7
+
+---------------------------------------------
+
+doc130.html
+TEXT SNIPPET: window datalayer   window datalayer       function gtag  
+
+WORD: far
+Appears 1 time(s)
+First found at position 178
+
+WORD: earth
+Appears 3 time(s)
+First found at position 183
+
+WORD: sun
+Appears 2 time(s)
+First found at position 181
+
+---------------------------------------------
+
+doc161.html
+TEXT SNIPPET: the sun   how far  how big    windows to the 
+
+WORD: far
+Appears 4 time(s)
+First found at position 6
+
+WORD: earth
+Appears 63 time(s)
+First found at position 187
+
+WORD: sun
+Appears 121 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc198.html
+TEXT SNIPPET: why the distance between the earth and sun doesn  x27 t impact seasons  
+
+WORD: far
+Appears 2 time(s)
+First found at position 15775
+
+WORD: earth
+Appears 10 time(s)
+First found at position 6
+
+WORD: sun
+Appears 9 time(s)
+First found at position 8
+
+---------------------------------------------
+
+doc69.html
+TEXT SNIPPET: history of google   wikipedia 
+ rlq window rlq      
+
+WORD: far
+Appears 2 time(s)
+First found at position 3725
+
+WORD: earth
+Appears 6 time(s)
+First found at position 4277
+
+WORD: sun
+Appears 14 time(s)
+First found at position 380
+
+---------------------------------------------
+
+doc78.html
+TEXT SNIPPET: 0   l  1    s on  internal error  
+
+WORD: far
+Appears 2 time(s)
+First found at position 9871
+
+WORD: earth
+Appears 7 time(s)
+First found at position 9791
+
+WORD: sun
+Appears 15 time(s)
+First found at position 9788
+
+---------------------------------------------
+
+doc81.html
+TEXT SNIPPET:  html lang  en us   head  meta charset  utf 8 
+
+WORD: far
+Appears 39 time(s)
+First found at position 184
+
+WORD: earth
+Appears 71 time(s)
+First found at position 195
+
+WORD: sun
+Appears 59 time(s)
+First found at position 188
+
+---------------------------------------------
+
+doc84.html
+TEXT SNIPPET: how far away is the sun    worldatlas 
+ 
+ 
+the  a 
+
+WORD: far
+Appears 6 time(s)
+First found at position 2
+
+WORD: earth
+Appears 17 time(s)
+First found at position 25
+
+WORD: sun
+Appears 18 time(s)
+First found at position 6
+
+---------------------------------------------
+
+doc85.html
+TEXT SNIPPET:  adsheight300x250  adsheight720x90  headerads250  footerads250 position relative padding top 21px text align 
+
+WORD: far
+Appears 3 time(s)
+First found at position 17335
+
+WORD: earth
+Appears 16 time(s)
+First found at position 17337
+
+WORD: sun
+Appears 16 time(s)
+First found at position 17339
+
+---------------------------------------------
+
+doc86.html
+TEXT SNIPPET: how far is earth from the sun    space 
+div  hawk nest 
+
+WORD: far
+Appears 13 time(s)
+First found at position 2
+
+WORD: earth
+Appears 39 time(s)
+First found at position 4
+
+WORD: sun
+Appears 47 time(s)
+First found at position 7
+
+---------------------------------------------
+
+doc87.html
+TEXT SNIPPET:  link rel  preload  href  https   i ytimg com generate 
+
+WORD: far
+Appears 11 time(s)
+First found at position 586
+
+WORD: earth
+Appears 25 time(s)
+First found at position 588
+
+WORD: sun
+Appears 29 time(s)
+First found at position 591
+
+---------------------------------------------
+
+doc88.html
+TEXT SNIPPET: how far is the earth from the sun    worldatlas 
+ 
+ 
+the 
+
+WORD: far
+Appears 6 time(s)
+First found at position 2
+
+WORD: earth
+Appears 27 time(s)
+First found at position 5
+
+WORD: sun
+Appears 31 time(s)
+First found at position 8
+
+---------------------------------------------
+
+doc89.html
+TEXT SNIPPET: how far is the sun from earth  accurate distance data 
+if typeof datalayer  
+
+WORD: far
+Appears 2 time(s)
+First found at position 2
+
+WORD: earth
+Appears 1 time(s)
+First found at position 7
+
+WORD: sun
+Appears 2 time(s)
+First found at position 5
+
+---------------------------------------------
+
+doc90.html
+TEXT SNIPPET:       if ie 7   html class  ie 
+
+WORD: far
+Appears 19 time(s)
+First found at position 341
+
+WORD: earth
+Appears 54 time(s)
+First found at position 346
+
+WORD: sun
+Appears 62 time(s)
+First found at position 344
+
+---------------------------------------------
+
+RECALL: 0.5
+PRECISION: 0.35714285714285715
+========= END OF QUERY 4 ============
+
+Query #5: "what was the first operating system"
+
+doc1.html
+TEXT SNIPPET:  solved  which of the following was the first operating system writte 
+ 
+ 
+
+WORD: first
+Appears 3 time(s)
+First found at position 10
+
+WORD: operating
+Appears 12 time(s)
+First found at position 11
+
+WORD: system
+Appears 11 time(s)
+First found at position 12
+
+---------------------------------------------
+
+doc114.html
+TEXT SNIPPET:  html lang  en us   head  meta name  viewport  
+
+WORD: first
+Appears 4 time(s)
+First found at position 8479
+
+WORD: operating
+Appears 4 time(s)
+First found at position 8705
+
+WORD: system
+Appears 3 time(s)
+First found at position 8706
+
+---------------------------------------------
+
+doc115.html
+TEXT SNIPPET: microsoft is born   stories 
+ function w d t r u  var 
+
+WORD: first
+Appears 1 time(s)
+First found at position 310
+
+WORD: operating
+Appears 1 time(s)
+First found at position 306
+
+WORD: system
+Appears 1 time(s)
+First found at position 307
+
+---------------------------------------------
+
+doc116.html
+TEXT SNIPPET: microsoft   new world encyclopedia 
+document documentelement classname   document documentelement classname replace 
+
+WORD: first
+Appears 10 time(s)
+First found at position 1112
+
+WORD: operating
+Appears 8 time(s)
+First found at position 4249
+
+WORD: system
+Appears 12 time(s)
+First found at position 683
+
+---------------------------------------------
+
+doc117.html
+TEXT SNIPPET: microsoft   wikipedia 
+ rlq window rlq      push function 
+
+WORD: first
+Appears 8 time(s)
+First found at position 4863
+
+WORD: operating
+Appears 16 time(s)
+First found at position 2069
+
+WORD: system
+Appears 14 time(s)
+First found at position 4427
+
+---------------------------------------------
+
+doc13.html
+TEXT SNIPPET: a brief history of microsoft   the worlds biggest software company 
+hsjquery   
+
+WORD: first
+Appears 1 time(s)
+First found at position 1984
+
+WORD: operating
+Appears 4 time(s)
+First found at position 1878
+
+WORD: system
+Appears 3 time(s)
+First found at position 1879
+
+---------------------------------------------
+
+doc132.html
+TEXT SNIPPET:  html lang es mx data skin light prefix  og  https   
+
+WORD: first
+Appears 27 time(s)
+First found at position 4246
+
+WORD: operating
+Appears 25 time(s)
+First found at position 12561
+
+WORD: system
+Appears 26 time(s)
+First found at position 2231
+
+---------------------------------------------
+
+doc14.html
+TEXT SNIPPET: a brief history of the internet   internet society 
+ iframe src  https 
+
+WORD: first
+Appears 25 time(s)
+First found at position 31560
+
+WORD: operating
+Appears 9 time(s)
+First found at position 33186
+
+WORD: system
+Appears 11 time(s)
+First found at position 32119
+
+---------------------------------------------
+
+doc146.html
+TEXT SNIPPET:  html lang  en  dir  ltr  xmlns article  http  
+
+WORD: first
+Appears 6 time(s)
+First found at position 5812
+
+WORD: operating
+Appears 34 time(s)
+First found at position 206
+
+WORD: system
+Appears 33 time(s)
+First found at position 310
+
+---------------------------------------------
+
+doc149.html
+TEXT SNIPPET: the evolution of the operating system   lilly021 
+ 
+ style type  text 
+
+WORD: first
+Appears 1 time(s)
+First found at position 684
+
+WORD: operating
+Appears 6 time(s)
+First found at position 5
+
+WORD: system
+Appears 6 time(s)
+First found at position 6
+
+---------------------------------------------
+
+doc153.html
+TEXT SNIPPET: the history of the internet   how the internet was invented   plusnet 
+
+WORD: first
+Appears 19 time(s)
+First found at position 450
+
+WORD: operating
+Appears 1 time(s)
+First found at position 1214
+
+WORD: system
+Appears 2 time(s)
+First found at position 244
+
+---------------------------------------------
+
+doc154.html
+TEXT SNIPPET: the history of the internet in a nutshell  from 1960s to now 
+ style 
+
+WORD: first
+Appears 79 time(s)
+First found at position 984
+
+WORD: operating
+Appears 1 time(s)
+First found at position 53592
+
+WORD: system
+Appears 11 time(s)
+First found at position 50471
+
+---------------------------------------------
+
+doc175.html
+TEXT SNIPPET: what is microsoft 
+span  sign up wrapper cascading reg  sign up content  
+
+WORD: first
+Appears 30 time(s)
+First found at position 5840
+
+WORD: operating
+Appears 17 time(s)
+First found at position 42494
+
+WORD: system
+Appears 29 time(s)
+First found at position 42495
+
+---------------------------------------------
+
+doc177.html
+TEXT SNIPPET:  link rel  shortcut icon  href  https   lemp io wp 
+
+WORD: first
+Appears 39 time(s)
+First found at position 48
+
+WORD: operating
+Appears 44 time(s)
+First found at position 49
+
+WORD: system
+Appears 44 time(s)
+First found at position 50
+
+---------------------------------------------
+
+doc193.html
+TEXT SNIPPET: who invented the operating system    homework study com 
+ 
+ 
+ 
+ 
+
+WORD: first
+Appears 94 time(s)
+First found at position 119
+
+WORD: operating
+Appears 9 time(s)
+First found at position 4
+
+WORD: system
+Appears 42 time(s)
+First found at position 5
+
+---------------------------------------------
+
+doc196.html
+TEXT SNIPPET:  script type  text javascript  src   ajax article news app web 
+
+WORD: first
+Appears 3 time(s)
+First found at position 12855
+
+WORD: operating
+Appears 2 time(s)
+First found at position 13029
+
+WORD: system
+Appears 3 time(s)
+First found at position 12959
+
+---------------------------------------------
+
+doc25.html
+TEXT SNIPPET:  html id  phx wrapper  lang  en us   head  
+
+WORD: first
+Appears 11 time(s)
+First found at position 3353
+
+WORD: operating
+Appears 9 time(s)
+First found at position 137028
+
+WORD: system
+Appears 17 time(s)
+First found at position 137029
+
+---------------------------------------------
+
+doc32.html
+TEXT SNIPPET: brazil 
+ h1 class  firstheading  brazil 
+  related subjects   a 
+
+WORD: first
+Appears 3 time(s)
+First found at position 1444
+
+WORD: operating
+Appears 1 time(s)
+First found at position 8515
+
+WORD: system
+Appears 6 time(s)
+First found at position 414
+
+---------------------------------------------
+
+doc44.html
+TEXT SNIPPET: computer basics  understanding operating systems 
+topics 
+ a href   en gcfteacherguides  
+
+WORD: first
+Appears 1 time(s)
+First found at position 500
+
+WORD: operating
+Appears 35 time(s)
+First found at position 5
+
+WORD: system
+Appears 15 time(s)
+First found at position 96
+
+---------------------------------------------
+
+doc45.html
+TEXT SNIPPET: computer operating systems   howstuffworks 
+ script src    cdn assets hswstatic 
+
+WORD: first
+Appears 1 time(s)
+First found at position 1275
+
+WORD: operating
+Appears 5 time(s)
+First found at position 2
+
+WORD: system
+Appears 4 time(s)
+First found at position 1470
+
+---------------------------------------------
+
+doc6.html
+TEXT SNIPPET: 10 amazing moments in microsoft s history  from its founding to desktop dominance to 
+
+WORD: first
+Appears 27 time(s)
+First found at position 5348
+
+WORD: operating
+Appears 9 time(s)
+First found at position 49870
+
+WORD: system
+Appears 8 time(s)
+First found at position 49490
+
+---------------------------------------------
+
+doc60.html
+TEXT SNIPPET: from windows 1 to windows 10  29 years of windows evolution   microsoft 
+
+WORD: first
+Appears 1 time(s)
+First found at position 25
+
+WORD: operating
+Appears 1 time(s)
+First found at position 22
+
+WORD: system
+Appears 1 time(s)
+First found at position 23
+
+---------------------------------------------
+
+doc66.html
+TEXT SNIPPET: history and evolution of operating systems   lloogg 
+ 
+ span class  byline 
+
+WORD: first
+Appears 9 time(s)
+First found at position 48
+
+WORD: operating
+Appears 24 time(s)
+First found at position 5
+
+WORD: system
+Appears 13 time(s)
+First found at position 120
+
+---------------------------------------------
+
+doc69.html
+TEXT SNIPPET: history of google   wikipedia 
+ rlq window rlq      
+
+WORD: first
+Appears 16 time(s)
+First found at position 700
+
+WORD: operating
+Appears 2 time(s)
+First found at position 31576
+
+WORD: system
+Appears 3 time(s)
+First found at position 22772
+
+---------------------------------------------
+
+doc70.html
+TEXT SNIPPET: history of microsoft corporation  ndash  fundinguniverse 
+ iframe src  https   
+
+WORD: first
+Appears 20 time(s)
+First found at position 227
+
+WORD: operating
+Appears 22 time(s)
+First found at position 257
+
+WORD: system
+Appears 24 time(s)
+First found at position 258
+
+---------------------------------------------
+
+doc71.html
+TEXT SNIPPET: history of microsoft   wikipedia 
+ rlq window rlq      
+
+WORD: first
+Appears 21 time(s)
+First found at position 2768
+
+WORD: operating
+Appears 27 time(s)
+First found at position 1447
+
+WORD: system
+Appears 38 time(s)
+First found at position 1448
+
+---------------------------------------------
+
+doc72.html
+TEXT SNIPPET: history of operating systems   operating systems  windows  linux  ios  
+
+WORD: first
+Appears 3 time(s)
+First found at position 575
+
+WORD: operating
+Appears 31 time(s)
+First found at position 3
+
+WORD: system
+Appears 17 time(s)
+First found at position 95
+
+---------------------------------------------
+
+doc73.html
+TEXT SNIPPET: history of operating systems   wikipedia 
+ rlq window rlq     
+
+WORD: first
+Appears 7 time(s)
+First found at position 3806
+
+WORD: operating
+Appears 179 time(s)
+First found at position 3
+
+WORD: system
+Appears 116 time(s)
+First found at position 2625
+
+---------------------------------------------
+
+doc74.html
+TEXT SNIPPET: history of the internet   when   how was the internet created  
+
+WORD: first
+Appears 27 time(s)
+First found at position 1668
+
+WORD: operating
+Appears 1 time(s)
+First found at position 2157
+
+WORD: system
+Appears 4 time(s)
+First found at position 2056
+
+---------------------------------------------
+
+doc75.html
+TEXT SNIPPET: history of the internet   wikipedia 
+ rlq window rlq     
+
+WORD: first
+Appears 5 time(s)
+First found at position 5165
+
+WORD: operating
+Appears 6 time(s)
+First found at position 460
+
+WORD: system
+Appears 10 time(s)
+First found at position 2123
+
+---------------------------------------------
+
+doc76.html
+TEXT SNIPPET:  html lang  en   head  meta http equiv  content type 
+
+WORD: first
+Appears 4 time(s)
+First found at position 1547
+
+WORD: operating
+Appears 63 time(s)
+First found at position 31
+
+WORD: system
+Appears 83 time(s)
+First found at position 32
+
+---------------------------------------------
+
+doc94.html
+TEXT SNIPPET:  html lang en us class gnt  njs data u s anon  head 
+
+WORD: first
+Appears 4 time(s)
+First found at position 2569
+
+WORD: operating
+Appears 1 time(s)
+First found at position 13044
+
+WORD: system
+Appears 1 time(s)
+First found at position 13045
+
+---------------------------------------------
+
+doc99.html
+TEXT SNIPPET:  html lang es mx data skin light prefix  og  https   
+
+WORD: first
+Appears 23 time(s)
+First found at position 4332
+
+WORD: operating
+Appears 21 time(s)
+First found at position 12202
+
+WORD: system
+Appears 22 time(s)
+First found at position 2350
+
+---------------------------------------------
+
+RECALL: 1.0
+PRECISION: 0.30303030303030304
+========= END OF QUERY 5 ============
+
+Query #6: "what were the 13 colonies of the united states"
+
+doc10.html
+TEXT SNIPPET: 13 us colonies history   influences   who ruled the 13 colonies  
+
+WORD: 13
+Appears 15 time(s)
+First found at position 1
+
+WORD: colonies
+Appears 28 time(s)
+First found at position 3
+
+WORD: united
+Appears 4 time(s)
+First found at position 1469
+
+WORD: states
+Appears 1 time(s)
+First found at position 1470
+
+---------------------------------------------
+
+doc129.html
+TEXT SNIPPET: original thirteen states   ballotpedia 
+ function w d s l i  w 
+
+WORD: 13
+Appears 4 time(s)
+First found at position 1059
+
+WORD: colonies
+Appears 5 time(s)
+First found at position 1218
+
+WORD: united
+Appears 8 time(s)
+First found at position 456
+
+WORD: states
+Appears 22 time(s)
+First found at position 3
+
+---------------------------------------------
+
+doc137.html
+TEXT SNIPPET: signing of the united states declaration of independence   wikipedia 
+ rlq window rlq 
+
+WORD: 13
+Appears 2 time(s)
+First found at position 1138
+
+WORD: colonies
+Appears 3 time(s)
+First found at position 1139
+
+WORD: united
+Appears 8 time(s)
+First found at position 4
+
+WORD: states
+Appears 10 time(s)
+First found at position 5
+
+---------------------------------------------
+
+doc138.html
+TEXT SNIPPET: signing the declaration of independence 
+  main menu 
+
+ 
+ li class  item 
+
+WORD: 13
+Appears 3 time(s)
+First found at position 180
+
+WORD: colonies
+Appears 1 time(s)
+First found at position 853
+
+WORD: united
+Appears 2 time(s)
+First found at position 899
+
+WORD: states
+Appears 4 time(s)
+First found at position 900
+
+---------------------------------------------
+
+doc141.html
+TEXT SNIPPET:  title the 13 colonies of america   8211  legends of america 
+ 
+
+WORD: 13
+Appears 3 time(s)
+First found at position 4
+
+WORD: colonies
+Appears 32 time(s)
+First found at position 5
+
+WORD: united
+Appears 2 time(s)
+First found at position 173
+
+WORD: states
+Appears 2 time(s)
+First found at position 174
+
+---------------------------------------------
+
+doc158.html
+TEXT SNIPPET: the original 13 states of the united states 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ iframe src    
+
+WORD: 13
+Appears 1 time(s)
+First found at position 3
+
+WORD: colonies
+Appears 2 time(s)
+First found at position 299
+
+WORD: united
+Appears 1 time(s)
+First found at position 7
+
+WORD: states
+Appears 2 time(s)
+First found at position 4
+
+---------------------------------------------
+
+doc162.html
+TEXT SNIPPET: the thirteen american colonies   free u s  government articles for students in 
+
+WORD: 13
+Appears 3 time(s)
+First found at position 172
+
+WORD: colonies
+Appears 9 time(s)
+First found at position 4
+
+WORD: united
+Appears 1 time(s)
+First found at position 1603
+
+WORD: states
+Appears 1 time(s)
+First found at position 1604
+
+---------------------------------------------
+
+doc163.html
+TEXT SNIPPET: the ultimate apâ® us history guide to the 13 colonies   albert io 
+ 
+
+WORD: 13
+Appears 7 time(s)
+First found at position 9
+
+WORD: colonies
+Appears 11 time(s)
+First found at position 10
+
+WORD: united
+Appears 2 time(s)
+First found at position 1585
+
+WORD: states
+Appears 2 time(s)
+First found at position 1586
+
+---------------------------------------------
+
+doc165.html
+TEXT SNIPPET: thirteen colonies   wikipedia 
+ rlq window rlq      push 
+
+WORD: 13
+Appears 9 time(s)
+First found at position 9188
+
+WORD: colonies
+Appears 337 time(s)
+First found at position 2
+
+WORD: united
+Appears 798 time(s)
+First found at position 641
+
+WORD: states
+Appears 792 time(s)
+First found at position 642
+
+---------------------------------------------
+
+doc166.html
+TEXT SNIPPET: thirteen original colonies history â€“ map  amp  list of 13 original states 
+
+ 
+
+WORD: 13
+Appears 7 time(s)
+First found at position 12
+
+WORD: colonies
+Appears 13 time(s)
+First found at position 3
+
+WORD: united
+Appears 4 time(s)
+First found at position 47
+
+WORD: states
+Appears 7 time(s)
+First found at position 14
+
+---------------------------------------------
+
+doc168.html
+TEXT SNIPPET: united states declaration of independence   wikipedia 
+ rlq window rlq    
+
+WORD: 13
+Appears 2 time(s)
+First found at position 4940
+
+WORD: colonies
+Appears 15 time(s)
+First found at position 4380
+
+WORD: united
+Appears 45 time(s)
+First found at position 1
+
+WORD: states
+Appears 47 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc54.html
+TEXT SNIPPET: declaration of independence  1776 
+  main menu 
+
+ 
+ li class  item 
+
+WORD: 13
+Appears 3 time(s)
+First found at position 180
+
+WORD: colonies
+Appears 3 time(s)
+First found at position 844
+
+WORD: united
+Appears 1 time(s)
+First found at position 831
+
+WORD: states
+Appears 1 time(s)
+First found at position 832
+
+---------------------------------------------
+
+doc59.html
+TEXT SNIPPET: from colonial rule to independence 
+  main menu 
+
+ 
+ li class  item 
+
+WORD: 13
+Appears 4 time(s)
+First found at position 180
+
+WORD: colonies
+Appears 5 time(s)
+First found at position 882
+
+WORD: united
+Appears 1 time(s)
+First found at position 1093
+
+WORD: states
+Appears 4 time(s)
+First found at position 1102
+
+---------------------------------------------
+
+doc7.html
+TEXT SNIPPET:  link rel  preload  href  https   i ytimg com generate 
+
+WORD: 13
+Appears 19 time(s)
+First found at position 595
+
+WORD: colonies
+Appears 25 time(s)
+First found at position 597
+
+WORD: united
+Appears 2 time(s)
+First found at position 703
+
+WORD: states
+Appears 2 time(s)
+First found at position 704
+
+---------------------------------------------
+
+doc9.html
+TEXT SNIPPET:  link id  ctl00 c8f4c6c953812b601a957ffb85881e061f80eb01e5e8c670167b133b4d5e4bbf  href  https   cdn1 ss13 sharpschool 
+
+WORD: 13
+Appears 14 time(s)
+First found at position 258
+
+WORD: colonies
+Appears 23 time(s)
+First found at position 259
+
+WORD: united
+Appears 18 time(s)
+First found at position 262
+
+WORD: states
+Appears 19 time(s)
+First found at position 263
+
+---------------------------------------------
+
+RECALL: 0.2
+PRECISION: 0.13333333333333333
+========= END OF QUERY 6 ============
+
+Query #7: "when was the declaration of independence signed"
+
+doc109.html
+TEXT SNIPPET:  html lang en us class gnt  njs data u s anon  head 
+
+WORD: declaration
+Appears 3 time(s)
+First found at position 60
+
+WORD: independence
+Appears 3 time(s)
+First found at position 62
+
+WORD: signed
+Appears 2 time(s)
+First found at position 58
+
+---------------------------------------------
+
+doc125.html
+TEXT SNIPPET: on this day  the declaration of independence is officially signed   the national 
+
+WORD: declaration
+Appears 7 time(s)
+First found at position 6
+
+WORD: independence
+Appears 7 time(s)
+First found at position 8
+
+WORD: signed
+Appears 5 time(s)
+First found at position 11
+
+---------------------------------------------
+
+doc136.html
+TEXT SNIPPET:  html  head  meta charset  utf 8    meta http 
+
+WORD: declaration
+Appears 19 time(s)
+First found at position 46222
+
+WORD: independence
+Appears 19 time(s)
+First found at position 46224
+
+WORD: signed
+Appears 2 time(s)
+First found at position 48130
+
+---------------------------------------------
+
+doc137.html
+TEXT SNIPPET: signing of the united states declaration of independence   wikipedia 
+ rlq window rlq 
+
+WORD: declaration
+Appears 33 time(s)
+First found at position 6
+
+WORD: independence
+Appears 36 time(s)
+First found at position 8
+
+WORD: signed
+Appears 4 time(s)
+First found at position 1548
+
+---------------------------------------------
+
+doc138.html
+TEXT SNIPPET: signing the declaration of independence 
+  main menu 
+
+ 
+ li class  item 
+
+WORD: declaration
+Appears 5 time(s)
+First found at position 3
+
+WORD: independence
+Appears 4 time(s)
+First found at position 5
+
+WORD: signed
+Appears 5 time(s)
+First found at position 836
+
+---------------------------------------------
+
+doc168.html
+TEXT SNIPPET: united states declaration of independence   wikipedia 
+ rlq window rlq    
+
+WORD: declaration
+Appears 48 time(s)
+First found at position 3
+
+WORD: independence
+Appears 57 time(s)
+First found at position 5
+
+WORD: signed
+Appears 1 time(s)
+First found at position 6985
+
+---------------------------------------------
+
+doc180.html
+TEXT SNIPPET:  html itemscope    itemtype  http   schema org searchresultspage  
+
+WORD: declaration
+Appears 4 time(s)
+First found at position 63
+
+WORD: independence
+Appears 4 time(s)
+First found at position 65
+
+WORD: signed
+Appears 4 time(s)
+First found at position 66
+
+---------------------------------------------
+
+doc183.html
+TEXT SNIPPET: â where was the declaration of independence signed    britannica 
+
+WORD: declaration
+Appears 1 time(s)
+First found at position 4
+
+WORD: independence
+Appears 1 time(s)
+First found at position 6
+
+WORD: signed
+Appears 1 time(s)
+First found at position 7
+
+---------------------------------------------
+
+doc197.html
+TEXT SNIPPET: who signed the declaration of independence    declaration resources project 
+ span class 
+
+WORD: declaration
+Appears 40 time(s)
+First found at position 4
+
+WORD: independence
+Appears 5 time(s)
+First found at position 6
+
+WORD: signed
+Appears 2 time(s)
+First found at position 2
+
+---------------------------------------------
+
+doc48.html
+TEXT SNIPPET: declaration of independence  1776    national archives 
+jquery extend drupal settings  
+
+WORD: declaration
+Appears 21 time(s)
+First found at position 1
+
+WORD: independence
+Appears 13 time(s)
+First found at position 3
+
+WORD: signed
+Appears 5 time(s)
+First found at position 2115
+
+---------------------------------------------
+
+doc53.html
+TEXT SNIPPET:  html lang en us class gnt  njs data u s anon  head 
+
+WORD: declaration
+Appears 3 time(s)
+First found at position 52
+
+WORD: independence
+Appears 3 time(s)
+First found at position 54
+
+WORD: signed
+Appears 1 time(s)
+First found at position 55
+
+---------------------------------------------
+
+doc9.html
+TEXT SNIPPET:  link id  ctl00 c8f4c6c953812b601a957ffb85881e061f80eb01e5e8c670167b133b4d5e4bbf  href  https   cdn1 ss13 sharpschool 
+
+WORD: declaration
+Appears 1 time(s)
+First found at position 4545
+
+WORD: independence
+Appears 2 time(s)
+First found at position 4547
+
+WORD: signed
+Appears 2 time(s)
+First found at position 4553
+
+---------------------------------------------
+
+RECALL: 0.7
+PRECISION: 0.5833333333333334
+========= END OF QUERY 7 ============
+
+Query #8: "which part of the brain controls hunger"
+
+doc103.html
+TEXT SNIPPET:  a href        subjectsmain  aria label  
+
+WORD: part
+Appears 4 time(s)
+First found at position 800
+
+WORD: brain
+Appears 26 time(s)
+First found at position 370
+
+WORD: controls
+Appears 12 time(s)
+First found at position 371
+
+WORD: hunger
+Appears 16 time(s)
+First found at position 363
+
+---------------------------------------------
+
+doc143.html
+TEXT SNIPPET:  function i s o g r a m  i  googleanalyticsobject   
+
+WORD: part
+Appears 3 time(s)
+First found at position 175
+
+WORD: brain
+Appears 15 time(s)
+First found at position 129
+
+WORD: controls
+Appears 4 time(s)
+First found at position 225
+
+WORD: hunger
+Appears 1 time(s)
+First found at position 448
+
+---------------------------------------------
+
+doc179.html
+TEXT SNIPPET: what part of the brain controls hunger    homework study com 
+ 
+ 
+
+WORD: part
+Appears 121 time(s)
+First found at position 2
+
+WORD: brain
+Appears 162 time(s)
+First found at position 5
+
+WORD: controls
+Appears 78 time(s)
+First found at position 6
+
+WORD: hunger
+Appears 9 time(s)
+First found at position 7
+
+---------------------------------------------
+
+doc185.html
+TEXT SNIPPET: var   ez   ez       ez stms 
+
+WORD: part
+Appears 3 time(s)
+First found at position 2193
+
+WORD: brain
+Appears 16 time(s)
+First found at position 2196
+
+WORD: controls
+Appears 6 time(s)
+First found at position 2197
+
+WORD: hunger
+Appears 19 time(s)
+First found at position 2198
+
+---------------------------------------------
+
+doc27.html
+TEXT SNIPPET: brain anatomy and how the brain works   johns hopkins medicine 
+ a href 
+
+WORD: part
+Appears 7 time(s)
+First found at position 1132
+
+WORD: brain
+Appears 73 time(s)
+First found at position 1
+
+WORD: controls
+Appears 8 time(s)
+First found at position 578
+
+WORD: hunger
+Appears 2 time(s)
+First found at position 596
+
+---------------------------------------------
+
+RECALL: 0.1
+PRECISION: 0.2
+========= END OF QUERY 8 ============
+
+Query #9: "what is the chemical formula of water"
+
+doc105.html
+TEXT SNIPPET:  function html  html classname   html classname replace   bno js 
+
+WORD: chemical
+Appears 4 time(s)
+First found at position 28
+
+WORD: formula
+Appears 4 time(s)
+First found at position 29
+
+WORD: water
+Appears 11 time(s)
+First found at position 31
+
+---------------------------------------------
+
+doc108.html
+TEXT SNIPPET: its chemical formula is simple  but water  h2o  is among the most 
+
+WORD: chemical
+Appears 3 time(s)
+First found at position 2
+
+WORD: formula
+Appears 3 time(s)
+First found at position 3
+
+WORD: water
+Appears 38 time(s)
+First found at position 8
+
+---------------------------------------------
+
+doc121.html
+TEXT SNIPPET: molecular weight calculation   gelfand center   carnegie mellon university 
+var datalayer window 
+
+WORD: chemical
+Appears 4 time(s)
+First found at position 213
+
+WORD: formula
+Appears 2 time(s)
+First found at position 214
+
+WORD: water
+Appears 2 time(s)
+First found at position 216
+
+---------------------------------------------
+
+doc156.html
+TEXT SNIPPET: the molecular formula for water 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ iframe src    www googletagmanager com 
+
+WORD: chemical
+Appears 1 time(s)
+First found at position 120
+
+WORD: formula
+Appears 2 time(s)
+First found at position 3
+
+WORD: water
+Appears 7 time(s)
+First found at position 5
+
+---------------------------------------------
+
+doc157.html
+TEXT SNIPPET:  script async    src  https   www googletagmanager com gtag 
+
+WORD: chemical
+Appears 1 time(s)
+First found at position 932
+
+WORD: formula
+Appears 19 time(s)
+First found at position 591
+
+WORD: water
+Appears 21 time(s)
+First found at position 593
+
+---------------------------------------------
+
+doc169.html
+TEXT SNIPPET: water   definition  chemical formula  structure  molecule    facts 
+
+WORD: chemical
+Appears 1 time(s)
+First found at position 6
+
+WORD: formula
+Appears 1 time(s)
+First found at position 7
+
+WORD: water
+Appears 1 time(s)
+First found at position 1
+
+---------------------------------------------
+
+doc171.html
+TEXT SNIPPET: water   molecule  formula  structure  properties 
+ 
+ 
+ 
+ 
+ 
+
+WORD: chemical
+Appears 4 time(s)
+First found at position 302
+
+WORD: formula
+Appears 3 time(s)
+First found at position 6
+
+WORD: water
+Appears 31 time(s)
+First found at position 1
+
+---------------------------------------------
+
+doc176.html
+TEXT SNIPPET: what is the chemical formula of water  is there a difference in the chemical 
+
+WORD: chemical
+Appears 51 time(s)
+First found at position 4
+
+WORD: formula
+Appears 26 time(s)
+First found at position 5
+
+WORD: water
+Appears 187 time(s)
+First found at position 7
+
+---------------------------------------------
+
+doc178.html
+TEXT SNIPPET:  meta name  description  content  description and characteristics of the water molecule 
+
+WORD: chemical
+Appears 2 time(s)
+First found at position 3717
+
+WORD: formula
+Appears 17 time(s)
+First found at position 55
+
+WORD: water
+Appears 61 time(s)
+First found at position 14
+
+---------------------------------------------
+
+doc2.html
+TEXT SNIPPET: 5 3  chemical formulas   how to represent compounds   chemistry libretexts 
+
+WORD: chemical
+Appears 14 time(s)
+First found at position 4
+
+WORD: formula
+Appears 20 time(s)
+First found at position 2281
+
+WORD: water
+Appears 2 time(s)
+First found at position 2364
+
+---------------------------------------------
+
+doc5.html
+TEXT SNIPPET:  html lang  en   head  meta charset  utf 8  
+
+WORD: chemical
+Appears 924 time(s)
+First found at position 117
+
+WORD: formula
+Appears 746 time(s)
+First found at position 118
+
+WORD: water
+Appears 1169 time(s)
+First found at position 120
+
+---------------------------------------------
+
+doc98.html
+TEXT SNIPPET:  link rel  preload  href  https   i ytimg com generate 
+
+WORD: chemical
+Appears 9 time(s)
+First found at position 602
+
+WORD: formula
+Appears 21 time(s)
+First found at position 603
+
+WORD: water
+Appears 23 time(s)
+First found at position 605
+
+---------------------------------------------
+
+RECALL: 0.5
+PRECISION: 0.4166666666666667
+========= END OF QUERY 9 ============
+
+Query #10: "which country colonized brazil"
+
+doc165.html
+TEXT SNIPPET: thirteen colonies   wikipedia 
+ rlq window rlq      push 
+
+WORD: country
+Appears 42 time(s)
+First found at position 77
+
+WORD: colonized
+Appears 1 time(s)
+First found at position 11508
+
+WORD: brazil
+Appears 1 time(s)
+First found at position 15561
+
+---------------------------------------------
+
+doc174.html
+TEXT SNIPPET: what country colonized brazil    homework study com 
+ 
+ 
+ 
+ 
+ 
+
+WORD: country
+Appears 82 time(s)
+First found at position 2
+
+WORD: colonized
+Appears 98 time(s)
+First found at position 3
+
+WORD: brazil
+Appears 53 time(s)
+First found at position 4
+
+---------------------------------------------
+
+doc186.html
+TEXT SNIPPET: who colonized brazil 
+emoji 
+  span class  logo  cut 
+ 
+ 
+ 
+
+WORD: country
+Appears 1 time(s)
+First found at position 61
+
+WORD: colonized
+Appears 3 time(s)
+First found at position 2
+
+WORD: brazil
+Appears 9 time(s)
+First found at position 3
+
+---------------------------------------------
+
+doc32.html
+TEXT SNIPPET: brazil 
+ h1 class  firstheading  brazil 
+  related subjects   a 
+
+WORD: country
+Appears 19 time(s)
+First found at position 1040
+
+WORD: colonized
+Appears 1 time(s)
+First found at position 1294
+
+WORD: brazil
+Appears 83 time(s)
+First found at position 1
+
+---------------------------------------------
+
+doc56.html
+TEXT SNIPPET: diversity in brazil   abroad guide   diversity abroad 
+search 
+ 
+ a 
+
+WORD: country
+Appears 3 time(s)
+First found at position 369
+
+WORD: colonized
+Appears 1 time(s)
+First found at position 487
+
+WORD: brazil
+Appears 11 time(s)
+First found at position 3
+
+---------------------------------------------
+
+doc79.html
+TEXT SNIPPET: how brazil benefited from its   39 decolonization stage  39    
+
+WORD: country
+Appears 3 time(s)
+First found at position 129
+
+WORD: colonized
+Appears 1 time(s)
+First found at position 1410
+
+WORD: brazil
+Appears 32 time(s)
+First found at position 2
+
+---------------------------------------------
+
+RECALL: 0.1
+PRECISION: 0.16666666666666666
+========= END OF QUERY 10 ============
+
