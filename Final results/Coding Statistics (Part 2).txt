@@ -1,0 +1,66 @@
+PHASES:
+	PHASE 1:
+		CLASSES:
+			1. Stoplist.java
+				METHODS:
+					i. StopList: 1 min
+					ii. storeStopWords: 5 min
+					iii. contains: 1 min
+			TOTAL CLASS TIME: 7 min
+			
+			2. InvertedIndex.java
+				METHODS:
+					i. InvertedIndex: 5 min
+					ii. storeInvertedIndex: 2 hr
+					iii. searchWord: 15 min
+					iv. searchDoc: 15 min
+					v: printIndexWord: 15 min
+					vi. printIndexDoc: 15 min
+			TOTAL CLASS TIME: 185 min = 3 hr 5 min
+
+			3. SearchEngine.java
+				METHODS: 
+				i. main: 1 hr
+			TOTAL  CLASS TIME: 1 hr
+		TOTAL PHASE TIME: 252 min = 4 hr 12 min
+		
+	PHASE 2:
+		CLASSES:
+			1. PorterStemmer.java (DISCLAIMER: WAS REFERENCED FOR PORTER ALGORITHM AS PER REQUIREMENTS IN PHASE 2)
+				Finding the code & making edits: 15 min
+			TOTAL CLASS TIME: 15 min
+			
+			2. InvertedIndex.java
+				METHODS:
+					i. InvertedIndex: 3 min
+					ii. recallInvertedIndex: 20 min
+					iii. storeStemming: 45 min
+					iv. isNumber: 2 min
+					v. recallStemming: 15 min
+					vi. query: 1 hr 30 min
+					vii. containsAllWords: 5 min
+			TOTAL CLASS TIME: 3 hr
+
+			3. SearchEngine.java
+				METHODS:
+					i. main: 15 min
+			TOTAL CLASS TIME: 15 min
+		TOTAL PHASE TIME: 210 min = 3 hr 30 min
+					
+
+	PHASE 3:
+		CLASSES:
+			1. InvertedIndex.java
+				METHODS:
+					i. InvertedIndex: 10 min
+					ii. query: 1 hr
+					iii. isRelevant: 5 min
+			TOTAL CLASS TIME: 1 hr 15 min
+
+			2. SearchEngine.java
+				METHODS:
+					i. main: 15 min
+			TOTAL CLASS TIME: 15 min
+		TOTAL PHASE TIME: 85 min = 1 hr 30 min
+
+TOTAL TIME SPENT ON CODING PROJECT: 9 hr 12 min

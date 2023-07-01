@@ -1,0 +1,56 @@
+CLASSES:
+	
+1. Stoplist.java
+		METHODS:
+			i. Stoplist
+			ii. storeStopWords
+			iii. contains
+		Total method count: 3
+	
+	2. PorterStemmer.java (DISCLAIMER: This is the Porter stemmer algorithm that I referenced elsewhere as per requirements in phase 2.)
+		METHODS:
+			i. stemWord
+			ii. stemStep1a
+			iii. stemStep1b
+			iv. step1b2
+			v. stemStep1c
+			vi. stemStep2
+			vii. stemStep3
+			viii. stemStep4
+			ix. stemStep5a
+			x. stemStep5b
+			xi. getLastDoubleConsonant
+			xii. isStarO
+			xiii. getLetterTypes
+			xiv: getM
+			xv: getLetterType
+		Total method count: 15
+
+
+	3. InvertedIndex.java
+		METHODS:
+			ii. InvertedIndex
+			ii. storeInvertedIndex
+			iii. searchWord
+			iv. searchDoc
+			v. printIndexWord
+			vi. printIndexDoc
+			vii. recallInvertedIndex
+			viii. storeStemming
+			ix. isNumber
+			x. recallStemming
+			xi. query
+			xii. containsAllWords
+			xiii. isRelevant
+		Total method count: 14
+
+	4. SearchEngine.java
+		METHODS:
+			i. main
+		Total method count: 1
+
+TOTAL CLASS COUNT: 4
+TOTAL METHOD COUNT: 32
+			
+
+		
