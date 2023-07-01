@@ -6,7 +6,7 @@ COMPILE: Type this command: javac SearchEngine.java
 
 RUN: SearchEngine.java is the main file.
 
-For phase 3, command:
+Command:
 java SearchEngine -stopwords <stopwords-file> -corpus <folder-path> -input <query-text-file> -query <query> -snippet <number> -noTextFile -gui -stemmingMode
 
 Text file output is the default. The output will be in the output.txt file that is automatically generated. To turn this off, use the -noTextFile flag.
