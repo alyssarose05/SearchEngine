@@ -11,5 +11,6 @@ RUN: Type this command: java SearchEngine -stopwords <stopwords-file> -corpus <f
 - The -input flag is for a text file that contains queries.
 - The -query flag is for a single query. Must be in "double quotes"
 - The -snippet flag means this: The first -snippet- words of a document will be shown in the search results.
+- To trigger stemming mode, use the -stemmingMode flag.
 
 Use --h or --help for more help on flags.
