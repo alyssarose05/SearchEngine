@@ -6,6 +6,10 @@ COMPILE: Type this command: javac SearchEngine.java
 
 RUN: Type this command: java SearchEngine -stopwords [stopwords-file] -corpus [folder-path] -input [query-text-file] -query [query] -snippet [number] -noTextFile -gui -stemmingMode
 
+- Stopwords fiile: stopListInput.txt
+- Corpus folder path: Copy and paste your computer path to the Corpus folder
+- Sample query text file: input.txt
+---
 - Text file output is the default. The output will be in the output.txt file that is automatically generated. To turn this off, use the -noTextFile flag.
 - GUI output is turned off by default. To turn this on, use the -gui flag.
 - The -input flag is for a text file that contains queries.
