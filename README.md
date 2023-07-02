@@ -12,4 +12,4 @@ RUN: Type this command: java SearchEngine -stopwords <stopwords-file> -corpus <f
 - The -query flag is for a single query. Must be in "double quotes"
 - The -snippet flag means this: The first -snippet- words of a document will be shown in the search results.
 
-Use the --h or --help command for more help on flags.
+Use --h or --help for more help on flags.
