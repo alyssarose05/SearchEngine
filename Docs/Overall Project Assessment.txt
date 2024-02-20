@@ -11,8 +11,8 @@ ACCOMPLISHMENTS:
 
 ROOM FOR IMPROVEMENT: I'm able to filter out words that are between ">" and "<" (ex. <title>Title</title>), but this doesn't completely filter out things that are irrelevant
 	like separate HTML tags and other things that are not specifically part of the webpage that the user sees. Some special characters also stayed in the inverted
-	and stemmed indices. As a result, some of the results in the search engine contained the words associated with the query, but were actually not relevant to it. 
-	It definitely has something to do with the compiled program and how it is being matched through the documents in the corpus. The code also takes a long time to finish running 
-	the first time since it has to go through 200 HTML files at once, and I know this has to do with memory, but this is the challenge that I had with using hash tables 
-	since they allowed me little flexibility on how much memory I could use and hence speed up the process. In the future, I would focus more on saving memory and parsing HTML 
+	and stemmed indices. As a result, some of the results in the search engine contained the words associated with the query, but were actually not relevant to it.
+	It definitely has something to do with the compiled program and how it is being matched through the documents in the corpus.The code also takes a long time to finish running
+	the first time since it has to go through 200 HTML files at once, and I know this has to do with memory, but this is the challenge that I had with using hash tables
+	since they allowed me little flexibility on how much memory I could use and hence speed up the process. In the future, I would focus more on saving memory and parsing HTML
 	accurately so that the search engine is not only fast, but also as accurate and precise as it can be.
