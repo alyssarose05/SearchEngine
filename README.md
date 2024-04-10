@@ -5,7 +5,7 @@
 4. Open your terminal in the location of the SearchEngine.zip file and type this command: `java -jar SearchEngine.jar -stopwords [stopwords-file] -corpus [folder-path] -input [query-text-file] -query [query] -snippet [number] -noTextFile -gui -stemmingMode`
 ---
 **About the running command:**
-- Stopwords fiile: stopListInput.txt
+- Stopwords file: stopListInput.txt
 - Corpus folder path: Copy and paste your computer path to the Corpus folder
 - Sample query text file: input.txt by default
 
